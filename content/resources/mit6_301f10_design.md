@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: a01739aa-cdfd-d299-0760-45034aba136e
 resourcetype: Document
 title: MIT6_301F10_design.pdf
 uid: 6794f14c-abf4-d79f-9347-663c6da534ae

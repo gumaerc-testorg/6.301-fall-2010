@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: a01739aa-cdfd-d299-0760-45034aba136e
 resourcetype: Document
 title: MIT6_301F10_lab_ref.pdf
 uid: b32324f4-e960-24d2-3da3-8f1ead19561c

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 57d90553-bce2-ca59-01f4-eaeb5a618220
 resourcetype: Document
 title: MIT6_301F10_mid_formula.pdf
 uid: 35b12310-89a6-5c76-6f76-94cdfcb3759f
