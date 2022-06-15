@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of recitation topics for the course
+  along with the recitation notes from most sessions.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
@@ -33,7 +35,7 @@ RECITATION NOTES
 Transistor biasing and thoughts on design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec01))
+({{% resource_link af22dd8b-ae50-ccdb-523b-f8d9557bc16d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +47,7 @@ Transistor biasing and thoughts on design
 Device physics and modeling
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec02))
+({{% resource_link 5bea62ec-8f56-39fd-4cdc-c7f91fb29504 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +59,7 @@ Device physics and modeling
 AC coupling and single-transistor amplifiers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec03))
+({{% resource_link c3f6f50d-3ab3-8575-8aee-f340270ae730 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +71,7 @@ AC coupling and single-transistor amplifiers
 Fairchild µA733 video amplifier
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec04))
+({{% resource_link f884b380-a57e-3fb1-8f5a-f61b323148e3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +83,7 @@ Fairchild µA733 video amplifier
 Miller effect
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec05))
+({{% resource_link bcef7062-2189-dc75-2244-377de8b95aa1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +95,7 @@ Miller effect
 Bandwidth in multistage amplifiers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec06))
+({{% resource_link e96aeb09-60d0-daf4-c231-4c56a275e5ec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +107,7 @@ Bandwidth in multistage amplifiers
 Emitter degeneration and more on multistage amps
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec07))
+({{% resource_link e8f9535e-97dd-8938-feb5-3488395d54e3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +119,7 @@ Emitter degeneration and more on multistage amps
 LM172 AGC AM IF strip
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec08))
+({{% resource_link 4c2c8550-39a0-df28-60d8-b391d4c11d67 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +131,7 @@ LM172 AGC AM IF strip
 Feedback biasing in circuits
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec09))
+({{% resource_link 42b46821-7512-4833-7b20-e8543cd87b2b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +143,7 @@ Feedback biasing in circuits
 Op-amp applications
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec10))
+({{% resource_link 4b956a37-80d7-0be9-4f32-29808f4bb9a0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +155,7 @@ Op-amp applications
 Analog computation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec11))
+({{% resource_link 58721d09-2e86-c192-5de9-d3985cc54795 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +167,7 @@ Analog computation
 Base-width modulation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec12))
+({{% resource_link 8b593011-5909-b7ad-a6ab-7482d330a2c9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +179,7 @@ Base-width modulation
 Current sources and current mirrors
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec13))
+({{% resource_link 148c2686-030c-a8ce-739a-ce2bf58d0e8d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +191,7 @@ Current sources and current mirrors
 Op-amps and assorted other topics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec14))
+({{% resource_link 1f1709a0-172b-8ac5-00f4-46636fdeacde "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +203,7 @@ Op-amps and assorted other topics
 Op-amp non-idealities
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec15))
+({{% resource_link 08aab72b-6eba-2125-2813-000b313484fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +215,7 @@ Op-amp non-idealities
 More on op-amp tricks
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec16))
+({{% resource_link f9bf5727-5f8c-780d-a6a8-2cc79cac29ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +239,7 @@ Lab 2 wrap-up, op-amps continued
 "Pythagorators" and other circuits
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec18))
+({{% resource_link b2df7ef6-2f71-aff9-94c9-2f9ef86bb646 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -249,7 +251,7 @@ Lab 2 wrap-up, op-amps continued
 More on translinear circuits
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec19))
+({{% resource_link db101889-9fe6-c3f9-9358-1dbdbfd307aa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -261,7 +263,7 @@ More on translinear circuits
 I/V and V/I conversion
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec20))
+({{% resource_link cd67d8de-0ed4-fb79-675d-309d1ca91d98 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -273,7 +275,7 @@ I/V and V/I conversion
 Current-feedback or transimpedance amplifiers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec21))
+({{% resource_link 640b1b1e-b483-aae0-b3ec-b4ced8e29908 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -285,7 +287,7 @@ Current-feedback or transimpedance amplifiers
 More on transimpedance amplifiers and intro to Zener diode references
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec22))
+({{% resource_link ecd4d0df-468b-2f2c-4110-d61b14d46de3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +299,7 @@ More on transimpedance amplifiers and intro to Zener diode references
 Zener diode references (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec23))
+({{% resource_link 1741d66d-a557-489a-4199-79cb1389b95b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,7 +311,7 @@ Zener diode references (cont.)
 Charge control with demo
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec24))
+({{% resource_link 48cfcfe8-8869-8740-3d77-405f48c0a5bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -321,7 +323,7 @@ Charge control with demo
 More on charge control and space-charge lasers
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec25))
+({{% resource_link 7803b69b-ac06-f496-2297-d63daf5aff96 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -333,7 +335,7 @@ More on charge control and space-charge lasers
 Charge control wrap-up
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_301f10_rec26))
+({{% resource_link 6a9e58ec-b7fa-76af-82f8-2b7ebefaa4ae "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
