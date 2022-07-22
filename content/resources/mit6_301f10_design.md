@@ -5,6 +5,7 @@ file: /courses/6-301-solid-state-circuits-fall-2010/6794f14cabf4d79f9347663c6da5
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_301F10_design.pdf
 uid: 6794f14c-abf4-d79f-9347-663c6da534ae
 ---
 This resource contains information related to transimpedance amplifier.
-
