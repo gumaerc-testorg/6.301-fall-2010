@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  reading material, grading policy, laboratory projects, the design problem, problem
+  sets, quizzes and the final exam, and academic honesty.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e9820feb-4b56-89f1-d749-cf8768000556
 ---
