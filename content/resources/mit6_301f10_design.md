@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to transimpedance amplifier.
-file: /courses/6-301-solid-state-circuits-fall-2010/6794f14cabf4d79f9347663c6da534ae_MIT6_301F10_design.pdf
+file: /ol-ocw-studio-app/courses/6-301-solid-state-circuits-fall-2010/6794f14cabf4d79f9347663c6da534ae_MIT6_301F10_design.pdf
 file_size: 78648
 file_type: application/pdf
 learning_resource_types:
