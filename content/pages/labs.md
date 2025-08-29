@@ -3,7 +3,7 @@ content_type: page
 description: This section provides a lab reference, two lab projects, and a design
   problem.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: a01739aa-cdfd-d299-0760-45034aba136e
